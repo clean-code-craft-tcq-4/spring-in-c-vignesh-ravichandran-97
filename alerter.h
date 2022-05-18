@@ -1,2 +1,0 @@
-void emailAlerter();
-void ledAlerter();
